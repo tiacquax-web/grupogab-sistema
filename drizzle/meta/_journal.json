@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1775611426766,
+      "tag": "0000_clammy_silk_fever",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1775611533949,
+      "tag": "0001_yummy_marten_broadcloak",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1775613097895,
+      "tag": "0002_colorful_iron_patriot",
+      "breakpoints": true
+    }
+  ]
+}
